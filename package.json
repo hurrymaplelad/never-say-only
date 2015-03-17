@@ -1,0 +1,26 @@
+{
+  "name": "never-say-only",
+  "version": "0.0.0",
+  "description": "describe.only 'never-say-only', -> it.only 'throws', -> if you.set process.env.NEVER_SAY_ONLY, jsonTruthyValue",
+  "author": "Adam Hull <adam@hmlad.com>",
+  "keywords": [
+    "mocha",
+    "only",
+    "ci"
+  ],
+  "main": "never_say_only",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hurrymaplelad/never-say-only.git"
+  },
+  "homepage": "https://github.com/hurrymaplelad/never-say-only",
+  "bugs": "https://github.com/hurrymaplelad/never-say-only/issues",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~2.2.1"
+  },
+  "scripts": {
+    "test": "test/test.sh"
+  }
+}
