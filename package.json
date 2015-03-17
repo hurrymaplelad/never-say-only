@@ -1,6 +1,6 @@
 {
   "name": "never-say-only",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "describe.only 'never-say-only', -> it.only 'throws', -> if you.set process.env.NEVER_SAY_ONLY, jsonTruthyValue",
   "author": "Adam Hull <adam@hmlad.com>",
   "keywords": [
